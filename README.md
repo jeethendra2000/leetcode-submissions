@@ -50,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
