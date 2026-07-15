@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
@@ -54,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
