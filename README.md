@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
@@ -73,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
