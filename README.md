@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
@@ -109,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jeethendra2000/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
